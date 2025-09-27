@@ -1,0 +1,5 @@
+{
+  "name": "Smart Feedback Tracker",
+  "description": "A lightweight web-based system for employees to submit feedback and suggestions, and for admins to manage and track them.",
+  "requestFramePermissions": []
+}
